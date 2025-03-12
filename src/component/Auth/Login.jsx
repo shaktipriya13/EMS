@@ -1,11 +1,18 @@
 import React, { useState } from 'react';
 
-const Login = () => {
+const Login = ({ handleLogin }) => {
+
+    // props is an object that contains all the properties that are passed to the component
+    // props is read-only, we cannot change the value of props
+    // props are immutable
+    // props are used to pass data from parent component to child component
     const [email, setEmail] = useState('');
     const [password, setPassword] = useState('');
 
     const submitHandler = (e) => {
         e.preventDefault();
+        handleLogin(email, password);
+        // when user submits form it is passed to handleLogin fxn
         console.log('email is:', email);
         console.log('password is:', password);
 
