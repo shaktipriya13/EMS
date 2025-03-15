@@ -9,7 +9,7 @@ const employees = [
             "active": 2,
             "newTask": 1,
             "completed": 1,
-            "failed": 0
+            "failed": 2
         },
         "tasks": [
             {
@@ -87,7 +87,7 @@ const employees = [
             "active": 2,
             "newTask": 1,
             "completed": 1,
-            "failed": 0
+            "failed": 3
         },
         "tasks": [
             {
@@ -165,7 +165,7 @@ const employees = [
             "active": 2,
             "newTask": 1,
             "completed": 1,
-            "failed": 0
+            "failed": 5
         },
         "tasks": [
             {
@@ -204,7 +204,7 @@ const employees = [
 
 const admin = [{
     "id": 1,
-    "email": "admin@example.com",
+    "email": "admin@me.com",
     "password": "123"
 }];
 
