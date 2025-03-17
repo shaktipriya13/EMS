@@ -10,6 +10,18 @@ Managing employee data efficiently is crucial for any organization. **EMS** is a
 - 🔐 **Secure Authentication & Role-Based Access** – Protect data with JWT authentication and role-based access.
 - 🤖 **AI-Powered Insights** – Leverage AI for smart HR decision-making.
 
+## 📸 Screenshots
+Here are some snapshots of the Employee Management System:
+
+![image](https://github.com/user-attachments/assets/77086be1-f9f5-4163-9e59-ab3204e970b0)
+
+*Login Page*
+
+![image](https://github.com/user-attachments/assets/84c6bed0-8e31-4a2b-8670-eb95fc246546)
+
+*Admin Dashboard: Track employee attendance seamlessly.*
+
+
 ## 💻 Tech Stack
 ### Frontend
 - **React.js** ⚛️ – Modern UI with state management.
