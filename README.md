@@ -12,6 +12,8 @@ Managing employee data efficiently is crucial for any organization. **EMS** is a
 
 ## 📸 Screenshots
 Here are some snapshots of the Employee Management System:
+Note:
+login email: admin@gmail.com | password: admin
 
 ![image](https://github.com/user-attachments/assets/77086be1-f9f5-4163-9e59-ab3204e970b0)
 
